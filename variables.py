@@ -25,3 +25,4 @@ se utiliza snake_case
 
 ejemplo:   nombre_objeto = "monitor"
 """
+
