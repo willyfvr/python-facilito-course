@@ -4,5 +4,5 @@ https://codigofacilito.com/cursos/python-profesional
 
 Last class:
 
-CLASS 9: Comparison Operators
-https://codigofacilito.com/videos/operadores-relacionales-8d4e1dd6-6a10-43f0-a236-1f64b63afc7a
+CLASS 10: Logic Operators
+https://codigofacilito.com/videos/operadores-logicos-a3ce23a4-806b-4f47-baf0-3102d64dd498
