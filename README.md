@@ -4,5 +4,5 @@ https://codigofacilito.com/cursos/python-profesional
 
 Last class:
 
-CLASS 10: Logic Operators
-https://codigofacilito.com/videos/operadores-logicos-a3ce23a4-806b-4f47-baf0-3102d64dd498
+CLASS 11: get keyboard values
+https://codigofacilito.com/videos/pedir-valores-por-teclado
